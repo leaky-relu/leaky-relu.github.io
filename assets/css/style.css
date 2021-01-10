@@ -211,7 +211,7 @@ html, body {
 /* HERO
 ================================================== */
 .hero { 
-    background: url(../img/hero2.jpeg) no-repeat center / cover; 
+    background: url(../img/hero3.png) no-repeat center / cover; 
     height: 100%;
     width: 100%;
     min-height: 700px;
@@ -242,7 +242,7 @@ html, body {
 
 .hero h1 {
     font-size: 46px;
-    font-weight: 700;
+    font-weight: 800;
     margin: 0 0 15px;
 }
 
